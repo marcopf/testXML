@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-        <menu-lable>Bitcoin</menu-lable>
-        <menu-lable>Popolazione Lazio</menu-lable>
-        <menu-lable>Covid Info</menu-lable>
-        <menu-lable>Dati Covid</menu-lable>
-        <menu-lable>Sistema Solare</menu-lable>
+        <menu-lable>
+        <menu-lable1>Bitcoin</menu-lable1>
+        <menu-lable2>Popolazione Lazio</menu-lable2>
+        <submenu2-lable1>Per Provincia</submenu2-lable1>
+        <submenu2-lable2>Per Comune</submenu2-lable2>
+        <menu-lable3>Covid Info</menu-lable3> 
+        <submenu3-lable1>Dati Covid</submenu3-lable1>
+        <sub-submenu3-lable1>Dati Covid Per Regione</sub-submenu3-lable1>
+        <sub-submenu3-lable2>Dati Covid Per Comune</sub-submenu3-lable1>
+        <menu-lable4>Sistema alare</menu-lable4>
+        </menu-lable>
 </root>
